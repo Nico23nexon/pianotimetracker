@@ -47,4 +47,4 @@ lib/
 ## Platforms
 
 - Android (primary)
-- iOS (via Codemagic/TestFlight)
+- iOS (MAC:XCODE Windows or Linux via Codemagic/TestFlight)
